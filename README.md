@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m William!
 
-<!--
-**echenim/echenim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a Software Engineer with a passion for building high-throughput, high-volume distributed systems. If you love tech, chess, or just want to geek out over Kafka topics, you’re in the right place. 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- Write code that moves fast and scales even faster
+- Architect, develop, and optimize distributed systems
+- Build and maintain RTB (Real-Time Bidding) systems
+- Tinker with high-performance event streaming (Kafka, Flink)
+- Always learning, always shipping
+
+## 🛠️ Top Skills
+
+- **Languages:** Go, Rust, Python, C#.Net
+- **Tech:** Apache Kafka, Apache Flink
+- **Expertise:** Distributed Systems, RTB, High Throughput/High Volume Systems
+
+## ♟️ Fun Fact
+
+When I’m not wrangling distributed systems, you’ll probably find me deep in a game of chess. Challenge me if you dare!
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/echenim/)
+
+---
+
+Thanks for stopping by! Feel free to check out my projects, open an issue, or just say hi. Happy coding! 🚀
