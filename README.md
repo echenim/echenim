@@ -20,8 +20,8 @@ Let’s just say: I like building things that work **even when things go wrong**
 - 🧠 [**ContextOs**](https://github.com/echenim/ContextOs): Context-driven operating layer for structured memory, task execution, and agent-style workflows  
 - 🛠️ [**Nekton-Server**](https://github.com/echenim/Nekton-Server): High-performance MCP server for vLLM/Ollama—real-time data augmented, multi-user, and built for scale.  
 - 🛰 [**StrataLinks-DSP**](https://github.com/echenim/stratalinks-dsp): Real-time ad bidding engine built with Go, Kafka, Flink, and gRPC  
-- 🔐 [**Onchain Micropayments**](https://github.com/echenim/onchain-micropayments): Rust + Go system for high-volume, sub-cent crypto transactions  
-- ⚡️ [**zkDEX Executor**](https://github.com/echenim/zkdex-executor): Execution router + proof generator using Go and Rust for zk-rollup environments  
+- 🔐 [**ArGus**](https://github.com/echenim/argus): Rust A distributed network security monitoring platform  
+- ⚡️ [**Hydra**](https://github.com/echenim/hydra): Rust infrastructure for automated DeFi trading 
 - 📡 [**Telemetry Ingestor**](https://github.com/echenim/telemetry-ingestor): Sensor-style data pipeline ingesting and analyzing high-frequency data streams  
 
 ---
