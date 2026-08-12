@@ -22,7 +22,7 @@ Let’s just say: I like building things that work **even when things go wrong**
 - 🛰 [**StrataLinks-DSP**](https://github.com/echenim/stratalinks-dsp): Real-time ad bidding engine built with Go, Kafka, Flink, and gRPC  
 - 🔐 [**ArGus**](https://github.com/echenim/argus): Rust A distributed network security monitoring platform  
 - ⚡️ [**Hydra**](https://github.com/echenim/hydra): Rust infrastructure for automated DeFi trading 
-- 📡 [**Telemetry Ingestor**](https://github.com/echenim/telemetry-ingestor): Sensor-style data pipeline ingesting and analyzing high-frequency data streams  
+- 📡 [**Salamada**](https://github.com/echenim/salamanda): Sensor-style data pipeline ingesting and analyzing high-frequency data streams  
 
 ---
 
